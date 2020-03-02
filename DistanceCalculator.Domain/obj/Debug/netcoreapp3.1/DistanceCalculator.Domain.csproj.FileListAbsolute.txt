@@ -1,0 +1,8 @@
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.Domain\bin\Debug\netcoreapp3.1\DistanceCalculator.Domain.deps.json
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.Domain\bin\Debug\netcoreapp3.1\DistanceCalculator.Domain.dll
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.Domain\bin\Debug\netcoreapp3.1\DistanceCalculator.Domain.pdb
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.Domain\obj\Debug\netcoreapp3.1\DistanceCalculator.Domain.csprojAssemblyReference.cache
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.Domain\obj\Debug\netcoreapp3.1\DistanceCalculator.Domain.AssemblyInfoInputs.cache
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.Domain\obj\Debug\netcoreapp3.1\DistanceCalculator.Domain.AssemblyInfo.cs
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.Domain\obj\Debug\netcoreapp3.1\DistanceCalculator.Domain.dll
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.Domain\obj\Debug\netcoreapp3.1\DistanceCalculator.Domain.pdb

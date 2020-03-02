@@ -1,0 +1,11 @@
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\bin\Debug\netcoreapp3.1\DistanceCalculator.Domain.dll
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\obj\Debug\netcoreapp3.1\DistanceCalculator.ServiceLayer.csprojAssemblyReference.cache
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\obj\Debug\netcoreapp3.1\DistanceCalculator.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\obj\Debug\netcoreapp3.1\DistanceCalculator.ServiceLayer.AssemblyInfo.cs
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\bin\Debug\netcoreapp3.1\DistanceCalculator.ServiceLayer.deps.json
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\bin\Debug\netcoreapp3.1\DistanceCalculator.ServiceLayer.dll
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\bin\Debug\netcoreapp3.1\DistanceCalculator.ServiceLayer.pdb
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\bin\Debug\netcoreapp3.1\DistanceCalculator.Domain.pdb
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\obj\Debug\netcoreapp3.1\DistanceCalculator.ServiceLayer.csproj.CopyComplete
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\obj\Debug\netcoreapp3.1\DistanceCalculator.ServiceLayer.dll
+C:\Users\RakeshGaur\source\repos\Birghtworks\DistanceCalculator.ServiceLayer\obj\Debug\netcoreapp3.1\DistanceCalculator.ServiceLayer.pdb
